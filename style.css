@@ -39,3 +39,10 @@ a:active {
 	outline: none;
 	border: none;
 }
+.specialImage:hover{
+	background-image: url("https://78.media.tumblr.com/d613c01c718f0d7ec26ecba5e619b021/tumblr_n7sqq4zFd01ri06y7o1_500.gif");
+}
+.specialImage{
+	background-image: url("Picture1.png");
+	width: 350px;
+	display: inline-block;
