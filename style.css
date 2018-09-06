@@ -1,0 +1,14 @@
+.heading {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+}
+.image {
+	width: 400px;
+	height: 300px;
+}
+body {
+	margin: 20px;
+	background-color: black;	
+}
