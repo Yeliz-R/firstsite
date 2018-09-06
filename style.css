@@ -5,10 +5,37 @@
 	text-decoration: underline;
 }
 .image {
-	width: 400px;
-	height: 300px;
+	width: 350px;
+	height: 250px;
+	margin: 15px;
+	opacity: 0.5;
+	border-radius: 15px;
+	border:none;
+}
+
+.image:hover {
+	opacity: 1;
 }
 body {
-	margin: 20px;
+	margin: 30px;
 	background-color: black;	
+}
+.myButton {
+	background-color: red;
+	color: black;
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+}
+.myButton:hover {
+	font-size: 15px;
+
+}
+a:active {
+	outline: none;
+	border: none;
+}
+.:active {
+	outline: none;
+	border: none;
 }
